@@ -21,3 +21,5 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 8. selesay
 
 # TAMPILAN PROGRAM 
+
+# OUTPUT PROGRAM 
