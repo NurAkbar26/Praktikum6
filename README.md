@@ -22,4 +22,10 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 # TAMPILAN PROGRAM 
 
-# OUTPUT PROGRAM 
+![img.1](gambar/2022-12-05.png)
+![img.2](gambar/2022-12-05%20(1).png)
+![img.3](gambar/2022-12-05%20(2).png)
+
+# OUTPUT PROGRAM
+
+![img.4](gambar/2022-12-05%20(3).png)
