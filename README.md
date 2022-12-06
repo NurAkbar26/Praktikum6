@@ -20,6 +20,9 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 - ubah(nama)
 8. selesay
 
+# FlOWCHART
+![img.4](gambar/flowchart.jpg)
+
 # TAMPILAN PROGRAM 
 
 ![img.1](gambar/2022-12-05.png)
